@@ -1,2 +1,1 @@
-creating a branch is quick.
-master simple;
+creating a branch is quick and simple
